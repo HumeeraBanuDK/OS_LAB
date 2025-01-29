@@ -1,6 +1,6 @@
 # OS_LAB
-##Basic UNIX Commands
-###exp1a
+## Basic UNIX Commands
+### Exp1a
 ![Screenshot (171)](https://github.com/user-attachments/assets/eaa3f32a-c393-4fb9-9293-39758a5a7534)
 ![Screenshot (172)](https://github.com/user-attachments/assets/a9fda02a-4ddf-427b-8a3d-4c6c10e88024)
 ![Screenshot (173)](https://github.com/user-attachments/assets/e1d82a93-4466-490d-bb70-9304269e3c1c)
